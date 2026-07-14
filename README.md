@@ -80,7 +80,7 @@ $ cat builders_academy.md
 ```
 
 <p align="left">
-  <a href="https://buildersacademy.net" target="_blank">
+  <a href="https://discord.gg/buildersacademy" target="_blank">
     <img src="https://img.shields.io/badge/Visitar%20Builders%20Academy-00FF9C?style=for-the-badge&logo=rocket&logoColor=black" />
   </a>
 </p>
