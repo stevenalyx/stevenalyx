@@ -121,5 +121,3 @@ $ cat builders_academy.md
 ---
 
 <p align="center"><i>Visita mis repositorios aquí 👇</i></p>
-
-🚧 Portafolio Web — próximamente
