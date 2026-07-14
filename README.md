@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/base-Curic%C3%B3%2C%20Chile-00FF9C?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117" />
 </p>
 
-## 👋 Hola, soy Steven
-## 💻 Ingeniería Informática & Ciberseguridad
-## 🚀 Fundador de Builders Academy
-## 🇨🇱 Curicó, Chile
-
 ---
 
 ## 👤 Sobre mí
