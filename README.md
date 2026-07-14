@@ -15,9 +15,8 @@
 $ whoami
 ```
 ```
-> Steven — estudiante de 2° año de Ingeniería en Informática y Ciberseguridad (INACAP Curicó)
-> Fundador y líder de Builders Academy — comunidad hispanohablante de formación práctica
-  en desarrollo, marketing y construcción digital
+> Estudiante de Ingeniería en Informática y Ciberseguridad
+> Actual Director de Builders Academy — Una comunidad hispanohablante de formación en construcción dentro de Minecraft
 > Enfocado en desarrollo front-end/full-stack, seguridad de redes y proyectos con propósito real
 ```
 
@@ -73,8 +72,8 @@ $ whoami
 $ cat builders_academy.md
 ```
 ```
-> Comunidad de formación práctica en desarrollo, marketing y construcción digital
-> Rol: Fundador / Líder
+> Comunidad con formación en construcción dentro de Minecraft
+> Rol: Director general
 > Estado: en proceso de formalización como emprendimiento (SpA)
 > Stack del proyecto: React + Vite, diseño en paleta morado/violeta
 ```
