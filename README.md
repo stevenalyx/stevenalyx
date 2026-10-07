@@ -48,8 +48,9 @@ $ whoami
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF9C" alt="MongoDB" />
-  <img src="" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF9C" alt="MySQL" />
 </p>
+
 
 **Ciberseguridad / Redes**
 
