@@ -15,7 +15,7 @@
 $ whoami
 ```
 ```
-> Carrera: Ingeniería en Informática y Ciberseguridad (INACAP Curicó)
+> Carrera: Ingeniería en Informática y Ciberseguridad
 > Proyectos actuales: Director de Builders Academy y Academy Creations,
   Administrador en Academy Studios y Management de Content Creators
 > Enfoque: Management y desarrollo de proyectos, liderazgo de equipos
@@ -48,6 +48,7 @@ $ whoami
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF9C" alt="MongoDB" />
+  <img src="" alt="MySQL" />
 </p>
 
 **Ciberseguridad / Redes**
@@ -79,19 +80,13 @@ $ whoami
 $ ls proyectos/
 ```
 ```
-> 01 · Builders Academy    comunidad hispanohablante de formación en
-                           construcción dentro de Minecraft
-> 02 · Academy Studios     estudio independiente de construcción profesional
+> 01 · Builders Academy    
+> 02 · Academy Studios     
 > 03 · Academy Creations
 > 04 · House Of Events
 > 05 · Próximamente...
 ```
 
-<p align="left">
-  <a href="https://discord.gg/buildersacademy" target="_blank">
-    <img src="https://img.shields.io/badge/Visitar%20Builders%20Academy-00FF9C?style=for-the-badge&logo=rocket&logoColor=black" alt="Visitar Builders Academy" />
-  </a>
-</p>
 
 ---
 
